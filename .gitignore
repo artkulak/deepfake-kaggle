@@ -6,3 +6,13 @@
 *.png
 *.jpg
 *.npy
+.wget-hsts
+.profile
+.bashrc
+.bash_logout
+.local/
+.jupyter/
+.cache/
+.config/
+.ipynb_checkpoints/
+.ipython/
