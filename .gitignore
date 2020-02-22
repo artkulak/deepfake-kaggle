@@ -16,3 +16,4 @@
 .config/
 .ipynb_checkpoints/
 .ipython/
+__pycache__
