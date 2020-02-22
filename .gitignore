@@ -3,3 +3,6 @@
 *.zip
 *.log
 *.json
+*.png
+*.jpg
+*.npy
